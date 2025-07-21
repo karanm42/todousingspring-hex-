@@ -11,3 +11,12 @@
    mvn clean install
 2. **olink to endpoint collection**
    https://web.postman.co/workspace/express-tutorial~d35c814c-9459-4e37-bdb9-fe790e55b581/collection/37331644-1981ecf0-9d2e-4b52-9eaf-b534aac4468c?action=share&source=copy-link&creator=37331644
+
+
+## 🚀 Tech Stack
+
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- H2 Database
+- Lombok
