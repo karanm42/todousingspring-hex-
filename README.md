@@ -5,7 +5,7 @@
 ## 📦 How to Run
 
 1. **Clone or download this repository**
-
-2. **Build the project** (in terminal):
+2. 1. **open demo1 directory **
+3. **Build the project** (in terminal):
    ```bash
    mvn clean install
